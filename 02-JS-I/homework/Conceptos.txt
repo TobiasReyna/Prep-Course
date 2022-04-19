@@ -1,0 +1,5 @@
+Variables: Forma de guardar información.
+Strings: Un string es una forma de manipular y representar caracteres; siendo estos letras(a,b,c,), simbolos(!,<;&), etc.
+Funciones: Forma de reutilizar una serie de comandos, ya sean statements o expressions. Dentro de este se pueden usar algunos argumentos como el return, que se usa para cortar y retornar el codigo a algo.
+Declaraciones If: Se usan para ejecutar una parte del codigo siempre y cuando se cumpla cierta condicion dada. 
+Valores booleanos: Son valores de verdad, usados para saber si algo es verdadero (true), o falso (false).

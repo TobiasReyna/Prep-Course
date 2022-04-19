@@ -1,0 +1,4 @@
+For: su funcion principal simplificar la ejecucion tediosa de codigo que, escrito de otra forma, resulta muy largo.
+Conectores logicos: || : funciona de forma textual como un "o", es verdad si al menos una de las condiciones es verdad.
+                    && : funciona de forma textual como un "y"; es verdad si todas las condiciones son verdades, de otra forma retorna a false.
+                    ! : se usa para negar una expresión, de forma tal que si algo es !true pasa a false.

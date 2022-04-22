@@ -1,0 +1,1 @@
+Array: Lista ordenada de elementos que son definidos por medio de corchetes [], dentro de ellos se pueden escribir cualquier tipo de dato (booleanos, strings, numeros, inclusi funciones).

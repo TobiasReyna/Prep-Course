@@ -1,0 +1,5 @@
+Objeto: Colección de propiedades y una propiedad es una asociación entre un nombre y un valor.
+Métodos: Funciones guardadas en métodos.
+Bucle for...in : Forma de iterar en cada par clave-valor de un objeto.
+Notación de Puntos: Se puede llamar al nombre del objeto, un punto y el nombre de la clave.  
+Notación de corchetes: Es como llamar el elemento de un array solo que en vez de usar numeros se usan una variable o un string. 
